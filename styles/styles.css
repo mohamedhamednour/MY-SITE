@@ -498,6 +498,9 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .Django {
   width: 80%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .Vue {
+  width: 60%;
+}
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .Sql {
   width: 70%;
